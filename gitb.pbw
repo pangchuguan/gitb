@@ -1,0 +1,10 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "gita.pbt";
+ 1 "genapp.pbt";
+ 2 "test4pbl.pbt";
+ 3 "webservice.pbt";
+ 4 "assembly.pbt";
+@end;
+DefaultTarget "gita.pbt";
+DefaultRemoteTarget "gita.pbt";

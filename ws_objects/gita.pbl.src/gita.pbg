@@ -1,0 +1,9 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "gita.pbl" "";
+@end;
+@begin Objects 
+ "gita.sra" "gita.pbl";
+ "uo_1.sru" "gita.pbl";
+ "w_test.srw" "gita.pbl";
+@end;
