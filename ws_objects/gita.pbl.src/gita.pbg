@@ -4,6 +4,15 @@
 @end;
 @begin Objects 
  "gita.sra" "gita.pbl";
+ "d_1.srd" "gita.pbl";
+ "d_2.srd" "gita.pbl";
+ "f_test1.srf" "gita.pbl";
+ "m_1.srm" "gita.pbl";
+ "str_1.srs" "gita.pbl";
  "uo_1.sru" "gita.pbl";
+ "uo_2.sru" "gita.pbl";
+ "uo_3.sru" "gita.pbl";
+ "uo_4.sru" "gita.pbl";
+ "uo_5.sru" "gita.pbl";
  "w_test.srw" "gita.pbl";
 @end;
